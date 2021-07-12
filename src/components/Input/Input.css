@@ -1,0 +1,29 @@
+.input {
+  display: block;
+  width: 400px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 0.25rem;
+  border: 1px solid;
+  border-color: inherit;
+  background-color: #fff;
+  padding: 0.5rem;
+}
+
+.small {
+  height: 1rem;
+  width: 50vw;
+  font-size: 0.875rem;
+}
+
+.medium {
+  height: 2rem;
+  width: 50vw;
+  font-size: 1rem;
+}
+
+.large {
+  height: 3rem;
+  width: 50vw;
+  font-size: 1.25rem;
+}
